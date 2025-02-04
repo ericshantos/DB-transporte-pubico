@@ -23,6 +23,8 @@ No sistema de transporte público, a gestão eficiente das viagens depende do re
 estruturado entre **Rotas, Paradas, Motoristas e Veículos**. Para isso, as entidades são 
 organizadas conforme suas regras de negócio e conexões lógicas.  
 
+<br>
+
 🔹 Entidades Principais: 
 
 ✔️ Motoristas 
@@ -32,6 +34,8 @@ organizadas conforme suas regras de negócio e conexões lógicas.
 ✔️ Paradas 
 
 ✔️ Rotas 
+
+<br>
 
 🔹 Relacionamentos Estruturados:
 
