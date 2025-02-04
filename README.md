@@ -103,7 +103,7 @@ detalhado das viagens realizadas.
 1. **Entidades Associadas**  
    - **Historico_viagens**:  
      - Atributos: id, fk_Rota_Parada (Chave estrangeira de **Rota_Parada**), fk_Veiculo (Chave estrangeira 
-     - de **Veículo**), saida_partida, chegada_destino, criado_em.  
+      de **Veículo**), saida_partida, chegada_destino, criado_em.  
 
 Essa estrutura permite registrar as viagens, com dados de horários e veículos, garantindo um 
 controle eficiente do transporte público.  
