@@ -24,13 +24,19 @@ estruturado entre **Rotas, Paradas, Motoristas e Veículos**. Para isso, as enti
 organizadas conforme suas regras de negócio e conexões lógicas.  
 
 🔹 Entidades Principais: 
+
 ✔️ Motoristas 
+
 ✔️ Veículos 
+
 ✔️ Paradas 
+
 ✔️ Rotas 
 
 🔹 Relacionamentos Estruturados:
+
 ✔️ Parada_Rota (tabela intermediária que define a sequência das paradas em cada rota) 
+
 ✔️ Diário de Viagem (registro detalhado das viagens realizadas) 
 
 ---
